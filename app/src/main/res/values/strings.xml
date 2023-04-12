@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="welcomeText">Welcome to the Restaurant App.
+
+To access menu of a restaurant click the start button. With this app you can create a dish, update its recipe, delete a dish and see various dishes served at a particular restaurant.</string>
+    <string name="start">Start</string>
+    <string name="dbMenuTitle">Created Menus</string>
+    <string name="dbMenuHint">You have not created anything</string>
+    <string name="nameTitleApi">Online Menus</string>
+</resources>
